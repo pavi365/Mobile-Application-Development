@@ -27,11 +27,11 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
-
+```
 Program to print the text “Implicitintent”.
 Developed by:Pavithra.P
-Registeration Number :212221220037
-
+Registration Number :212221220037
+```
 ## Activity_main.xml:
 
 xmlns:app="http://schemas.android.com/apk/res-auto"
