@@ -27,14 +27,13 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
-```
 /*
 Program to print the text “Implicitintent”.
 Developed by:Pavithra.P
 Registeration Number :212221220037
 */
 ## Activity_main.xml:
-```
+
 xmlns:app="http://schemas.android.com/apk/res-auto"
 
 xmlns:tools="http://schemas.android.com/tools"
@@ -44,7 +43,7 @@ android:layout_width="match_parent"
 android:layout_height="match_parent"
 
 tools:context=".MainActivity">
-
+```
 <EditText
     android:id="@+id/urlEditText"
     android:layout_width="292dp"
@@ -65,9 +64,9 @@ tools:context=".MainActivity">
     app:layout_constraintEnd_toEndOf="parent"
     app:layout_constraintStart_toStartOf="parent"
     app:layout_constraintTop_toBottomOf="@+id/urlEditText" />
-
 ```
 ## MainActivity.java:
+```
 package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -85,7 +84,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity { EditText editText; Button button;
-```
+
 @Override
 protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -103,16 +102,12 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 ```
 
-## OUTPUT
+## OUTPUT:
+
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/df969923-79a6-4aad-905f-6bd39db44e63)
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/088fcf9a-6cc8-41fa-96b0-0395141dd925)
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/aa502561-332c-46d8-9120-bd7a3fc805bd)
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/794b3abf-6027-4cc4-ad4a-3f93a6bca6d3)
-
-
-
-
-
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the google page using Android Studio is developed and executed successfully.
