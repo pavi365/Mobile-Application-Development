@@ -122,11 +122,12 @@ public class MainActivity extends AppCompatActivity {
 
 ![Screenshot (159)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/aea33167-b168-43a7-96c7-09d625711f25)
 
-
 ![Screenshot (164)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/d23edc01-33fe-4307-af07-05a3fe5b4e2b)
 
 
 ![Screenshot (165)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/f94ca89d-5b46-4e96-be7e-76733fb8966c)
+
+
 ![Screenshot (166)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/60bba63d-3647-4d5e-a53f-55b37f2c3dd4)
 
 
@@ -137,7 +138,6 @@ public class MainActivity extends AppCompatActivity {
  
 
 ![4](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/ba2c6654-e383-4126-be79-972260efe546)
-
 
 ![6](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/78ea5b3f-6f13-4e76-8009-fc3ace0b769d)
 
@@ -152,7 +152,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 ![3](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/c136b322-b093-49bf-af96-177f9979f782)
-
 
 
 
