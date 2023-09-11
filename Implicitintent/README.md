@@ -43,7 +43,7 @@ android:layout_width="match_parent"
 android:layout_height="match_parent"
 
 tools:context=".MainActivity">
-
+```
 <EditText
     android:id="@+id/urlEditText"
     android:layout_width="292dp"
@@ -64,7 +64,7 @@ tools:context=".MainActivity">
     app:layout_constraintEnd_toEndOf="parent"
     app:layout_constraintStart_toStartOf="parent"
     app:layout_constraintTop_toBottomOf="@+id/urlEditText" />
-    
+ ```   
 ## MainActivity.java:
 package com.example.myapplication;
 
