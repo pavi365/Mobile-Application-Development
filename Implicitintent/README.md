@@ -83,7 +83,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity { EditText editText; Button button;
-
+```
 @Override
 protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -99,7 +99,7 @@ protected void onCreate(Bundle savedInstanceState) {
         }
     });
 }
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/df969923-79a6-4aad-905f-6bd39db44e63)
