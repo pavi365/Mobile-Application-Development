@@ -1,4 +1,4 @@
-![mad-2](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/7edbd83a-49bd-4fae-8754-b20ba7a33200)# Ex.No:9 Develop a simple calculator using android studio.
+Ex.No:9 Develop a simple calculator using android studio.
 
 ## AIM:
 
