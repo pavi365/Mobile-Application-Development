@@ -159,13 +159,8 @@ Registeration Number :212221220037
 ```
 
 ## OUTPUT
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/07c1c184-9608-4335-afc1-d936b6320bca)
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/a5d26104-0b63-40df-b6d4-5b61363a2b20)
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/c78ba42a-8875-4396-bbf6-e38c7c887cf0)
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/70767710-5968-4217-8b47-dcd62a09c81c)
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/96525a8a-f045-44b8-b11b-58a17d12d3e9)
-
-
+![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/85a98b1a-b2ba-4ee0-8549-894624c0d69f)
+![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/d32befcc-4d8a-4d24-8afd-048af88511a8)
 
 
 
