@@ -338,13 +338,9 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 ```
 ## Output:
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/45f1fb81-2728-4738-aacb-d2a5547c8f6a)
+![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/45f1fb81-2728-4738-aacb-d2a5547c8f6a) ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/ece336e9-7685-4382-af00-bfa628c12c5b)
 
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/ece336e9-7685-4382-af00-bfa628c12c5b)
-
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/79f6d391-fc0b-4a0f-a35f-d3d2cc92894c)
-
-![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/9876d7a3-6046-4dce-ac60-04f5f86373f1)
+![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/79f6d391-fc0b-4a0f-a35f-d3d2cc92894c) ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/9876d7a3-6046-4dce-ac60-04f5f86373f1)
 
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/a9e9bbeb-2e53-4f50-b544-fe3300d5196a)
 
