@@ -157,12 +157,12 @@ Developed by:Pavithra.P
 Registeration Number :212221220037
 */
 ```
-
+```
 ## OUTPUT
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/5070f1c5-d312-4f0f-8c4f-fa92956a6eae)
 
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/48f4aaf2-b1ba-44ed-9ca0-a1c339344ac5)
-
+```
 
 ## RESULT
 Thus a Simple Android Application to create and develop the application to display the place name with image using list view in android studio is developed and executed successfully.
