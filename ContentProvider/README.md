@@ -190,13 +190,13 @@ Registeration Number :212221220037
 ```
 
 ## OUTPUT:
-
+```
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/63f2933f-7331-4242-86cc-afb942722043)
 
 
 ![image](https://github.com/pavi365/Mobile-Application-Development/assets/115135775/b32d7a48-b787-4a74-91e4-66fa125146af)
 
-
+```
 
 
 
